@@ -291,3 +291,25 @@ article{
   width: 10rem;
   gap: 0.5rem;
 }
+
+.project-img{
+  width: 90%;
+  height: 90%;
+  border-radius: 2rem;
+}
+
+#projects {
+  position: relative;
+}
+.color-container{
+  border-color: rgb(163, 163, 163);
+  background: rgb(250, 250, 250);
+}
+.project-title{
+  margin: 1rem;
+  color: black;
+}
+.project-btn{
+  color: black;
+  border-color: rgb(163, 163, 163);
+}
