@@ -123,8 +123,8 @@ a:hover{
 /* section */
 
 #porfolio-pic{
-  width: 275px;   
-  height: 275px;       
+  width: 400px;   
+  height: 400px;       
   object-fit: cover;    
   border-radius: 50%; 
 }
