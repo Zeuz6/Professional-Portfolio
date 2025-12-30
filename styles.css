@@ -123,8 +123,8 @@ a:hover{
 /* section */
 
 #porfolio-pic{
-  width: 400px;   
-  height: 400px;       
+  width: 275px;   
+  height: 275px;       
   object-fit: cover;    
   border-radius: 50%; 
 }
@@ -219,8 +219,8 @@ section {
   color: white;
 }
 .about-pic{
-  height: 400px;
-  width: 400px;
+  width: 275px;   
+  height: 275px; 
   border-radius: 2rem;
 }
 #about {
